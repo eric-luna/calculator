@@ -10,13 +10,13 @@ body,html{
 	background-color: blue;
 	border-radius: 15px;
 }
-.display{
+.top{
 	text-align: right;
 	width: 100%;
 	background-color: purple;
 	height: 80px;
 }
-.display p {
+.top p {
 	margin: 0;
 	width: 75%;
 	float: right;
